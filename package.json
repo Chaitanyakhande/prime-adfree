@@ -1,10 +1,10 @@
 {
 "name": "tizenbrew-primevideo-adfree",
-"version": "1.0.1",
+"version": "1.0.2",
 "description": "An ad-free, auto-skipping, and UX-enhancing module for Amazon Prime Video on Samsung Tizen TVs.",
 "packageType": "mods",
 "appName": "Prime Video Ad Free",
-"websiteURL": "https://www.primevideo.com/storefront",
+"websiteURL": "https://www.primevideo.com",
 "main": "index.js",
 "evaluateScriptOnDocumentStart": true,
 "keys": [
